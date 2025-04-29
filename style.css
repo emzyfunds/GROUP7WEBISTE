@@ -11,6 +11,22 @@ header {
     color: blue;
     padding: 1rem;
 }
+.about-Emmanuel {
+    background-color: white;
+    color:blue;
+    padding: 1rem;
+}
+.portfolio.pic {
+    width: 10px;
+    height:10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border-radius: 50%;
+    box-shadow: 0px;
+
+}
+    
 
 nav ul {
     list-style: none;
