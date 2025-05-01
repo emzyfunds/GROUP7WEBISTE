@@ -16,29 +16,7 @@ header {
     color:blue;
     padding: 1rem;
 }
-.portfolio.pic {
-    width: 10px;
-    height:10px;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    border-radius: 50%;
-    box-shadow: 0px;
 
-}
-.image-container{
-    position: fixed;
-    top: 10px;
-    right: 30px;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 10px;
-    z-index: 10;
-    
-
-}
 .picture-pic{
     position: fixed;
     top: 10px;
