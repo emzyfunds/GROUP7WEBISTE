@@ -27,20 +27,31 @@ header {
 
 }
 .image-container{
-    width: 200px;
-    margin: 200px;
-    padding: 10px;
-    text-align: center;
-}
-.custom image {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    border: 2px;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
     box-shadow: 10px;
-    object-fit: cover;
-    text-align: center;
+    z-index: 10;
+    
+
 }
+.picture-pic{
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 10px;
+    z-index: 10;
+}
+
+
     
 
 nav ul {
