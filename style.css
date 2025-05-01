@@ -26,6 +26,21 @@ header {
     box-shadow: 0px;
 
 }
+.image-container{
+    width: 200px;
+    margin: 200px;
+    padding: 10px;
+    text-align: center;
+}
+.custom image {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px;
+    box-shadow: 10px;
+    object-fit: cover;
+    text-align: center;
+}
     
 
 nav ul {
